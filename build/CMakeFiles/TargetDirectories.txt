@@ -1,0 +1,7 @@
+/home/ou/Desktop/hisi/myWork/build/CMakeFiles/install/strip.dir
+/home/ou/Desktop/hisi/myWork/build/CMakeFiles/install/local.dir
+/home/ou/Desktop/hisi/myWork/build/CMakeFiles/install.dir
+/home/ou/Desktop/hisi/myWork/build/CMakeFiles/list_install_components.dir
+/home/ou/Desktop/hisi/myWork/build/CMakeFiles/rebuild_cache.dir
+/home/ou/Desktop/hisi/myWork/build/CMakeFiles/edit_cache.dir
+/home/ou/Desktop/hisi/myWork/build/CMakeFiles/video.dir
